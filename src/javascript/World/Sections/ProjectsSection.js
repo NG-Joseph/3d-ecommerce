@@ -116,7 +116,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
                 link:
                 {
-                    href: 'https://threejs-journey.xyz',
+                    href: 'https://jcool4liv.wixsite.com/my-site-1/product-page/a-good-time',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -131,7 +131,7 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Chartogne Taillet',
+                name: 'Moana Lisa',
                 imageSources:
                 [
                     projectsChartogneSlideASources,
@@ -141,7 +141,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsChartogneFloorTexture,
                 link:
                 {
-                    href: 'https://chartogne-taillet.com',
+                    href: 'https://jcool4liv.wixsite.com/my-site-1/product-page/purple-patch',
                     x: - 4.8,
                     y: - 3.3,
                     halfExtents:
